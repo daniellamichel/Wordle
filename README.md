@@ -33,10 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](<div style="position: relative; padding-bottom: 217.81376518218622%; height: 0;"><iframe src="https://www.loom.com/embed/eaf6fc88df894d498481e09a49a02291?sid=a9981dfc-6eb5-45d8-b7bb-a1349a98ce51" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>) .
-
+<div style="position: relative; padding-bottom: 217.81376518218622%; height: 0;"><iframe src="https://www.loom.com/embed/46d468a5b67943eaac5226153c201726?sid=aeddb59d-f0bb-4919-9785-9fc208eb4923" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
